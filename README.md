@@ -10,7 +10,8 @@ This is a simple calculator GUI application built using Python's `tkinter` libra
 - Clear input
 - Evaluate expressions
 
-- <img width="508" alt="Screenshot 2024-08-31 at 11 01 55 PM" src="https://github.com/user-attachments/assets/7a8d206f-286b-499e-8450-9b08e7aec88f">
+## Screenshot
+ <img width="508" alt="Screenshot 2024-08-31 at 11 01 55 PM" src="https://github.com/user-attachments/assets/7a8d206f-286b-499e-8450-9b08e7aec88f">
 
 ## How to Run
 
